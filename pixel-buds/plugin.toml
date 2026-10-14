@@ -10,7 +10,7 @@ plugin_api = 24
 author = "finoo125"
 license = "MIT"
 icon = "headphones"
-description = "Google Pixel Buds in the bar: full battery, noise control, EQ and settings on Pixel Buds Pro via pbpctrl; battery level on other models."
+description = "Google Pixel Buds battery, noise control, EQ and settings in the bar via pbpctrl; battery only on non-Pro models."
 tags = ["audio", "bar", "panel", "service", "hardware", "indicator"]
 dependencies = ["pbpctrl", "bluetoothctl"]
 
